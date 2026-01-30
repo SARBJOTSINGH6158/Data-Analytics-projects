@@ -5,7 +5,7 @@ Key Features: ✅ Real-time Metrics: Tracking the 390.50 Billion total barrels i
 __________________________________________________________________________________________________________________________________________
 Data-Driven Questions & Answers
 
-1. Which individual reservoir or field holds the highest proven reserves?/n
+1. Which individual reservoir or field holds the highest proven reserves?
 Excluding the aggregate "Orinoco Belt (Total)" entry, the Maracaibo Basin leads the list with 45.0 billion barrels of proven reserves. It is followed by Zuata and Cerro Negro, which both hold 15.0 billion barrels each.
 
 2. Which Basin/Region is the most active in terms of project count?
